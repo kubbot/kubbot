@@ -30,7 +30,7 @@
 - [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) - A system that monitors and tracks ESG (Environmental, Social and Governance) disclosures and ratings from various public data sources. It collects ESG data points from sources like Feishu spreadsheets and makes them available through an administrative interface. (2 weeks ago)
 - [kubecub/kube-im](https://github.com/kubecub/kube-im) - Kube-im is a distributed IM communication system based on Kubernetes. It utilizes Kubernetes&#39; Service and Deployment capabilities to achieve high availability and scaling of IM systems, making it easy to build a powerful distributed IM solution. (2 weeks ago)
 - [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (2 weeks ago)
-- [OpenIMSDK/Open-IM-PC-Web-Demo](https://github.com/OpenIMSDK/Open-IM-PC-Web-Demo) - Instant Messaging (3 weeks ago)
+- [OpenIMSDK/Open-IM-PC-Web-Demo](https://github.com/OpenIMSDK/Open-IM-PC-Web-Demo) - Instant Messaging web (3 weeks ago)
 - [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (4 weeks ago)
 - [kubecub/.github](https://github.com/kubecub/.github) -  (4 weeks ago)
 - [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/ (1 month ago)
@@ -58,4 +58,3 @@
 - [Update README.md](https://github.com/kubecub/CloudBuildAI/pull/16) on [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) (2 months ago)
 - [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (3 months ago)
 - [Update .gitignore](https://github.com/OpenIMSDK/community/pull/21) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (3 months ago)
- 🚀 Shanghai time when the README file was last updated：2023-08-11 16:35:41
