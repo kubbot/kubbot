@@ -11,18 +11,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openim-sigs/openim-docker](https://github.com/openim-sigs/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (5 days ago)
 - [kubecub/kube-im](https://github.com/kubecub/kube-im) - Kube-im is a distributed IM communication system based on Kubernetes. It utilizes Kubernetes&#39; Service and Deployment capabilities to achieve high availability and scaling of IM systems, making it easy to build a powerful distributed IM solution. (5 days ago)
-- [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) - A system that monitors and tracks ESG (Environmental, Social and Governance) disclosures and ratings from various public data sources. It collects ESG data points from sources like Feishu spreadsheets and makes them available through an administrative interface. (5 days ago)
+- [kubecub/.github](https://github.com/kubecub/.github) -  (5 days ago)
 - [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (5 days ago)
 - [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (5 days ago)
-- [kubecub/docs](https://github.com/kubecub/docs) - About the k8s-iam project documentation, as well as learning documentation and development documentation tutorials. (5 days ago)
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (5 days ago)
 - [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (5 days ago)
 - [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (5 days ago)
 - [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics @kubbot. (5 days ago)
-- [kubecub/.github](https://github.com/kubecub/.github) -  (5 days ago)
+- [kubecub/docs](https://github.com/kubecub/docs) - About the k8s-iam project documentation, as well as learning documentation and development documentation tutorials. (5 days ago)
 - [kubecub/RemoteOps-scripts](https://github.com/kubecub/RemoteOps-scripts) - A GitHub repository dedicated to storing scripts executed by @kubbot on remote servers for the purpose of pulling and creating PRs on repositories within the kubecub organization, as well as resolving various issue problems. (5 days ago)
+- [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) - A system that monitors and tracks ESG (Environmental, Social and Governance) disclosures and ratings from various public data sources. It collects ESG data points from sources like Feishu spreadsheets and makes them available through an administrative interface. (5 days ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (1 week ago)
 - [OpenIMSDK/OpenIM-Docs](https://github.com/OpenIMSDK/OpenIM-Docs) - OpenIM system documentation (1 week ago)
 - [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (1 week ago)
@@ -58,4 +59,3 @@
 - [Update README.md](https://github.com/kubecub/CloudBuildAI/pull/16) on [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) (3 months ago)
 - [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (3 months ago)
 - [Update .gitignore](https://github.com/OpenIMSDK/community/pull/21) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (3 months ago)
- 🚀 Shanghai time when the README file was last updated：2023-08-19 19:08:57
