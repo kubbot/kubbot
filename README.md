@@ -12,7 +12,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
-- [openim-sigs/openim-docker](https://github.com/openim-sigs/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
+- [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
 - [kubecub/kube-im](https://github.com/kubecub/kube-im) - Kube-im is a distributed IM communication system based on Kubernetes. It utilizes Kubernetes&#39; Service and Deployment capabilities to achieve high availability and scaling of IM systems, making it easy to build a powerful distributed IM solution. (1 week ago)
 - [kubecub/.github](https://github.com/kubecub/.github) -  (1 week ago)
 - [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (1 week ago)
@@ -59,4 +59,3 @@
 - [Update README.md](https://github.com/kubecub/CloudBuildAI/pull/16) on [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) (3 months ago)
 - [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (3 months ago)
 - [Update .gitignore](https://github.com/OpenIMSDK/community/pull/21) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (3 months ago)
- 🚀 Shanghai time when the README file was last updated：2023-08-21 15:11:45
