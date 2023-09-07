@@ -33,7 +33,7 @@
 - [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (3 weeks ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (1 month ago)
 - [openimbot/openimbot](https://github.com/openimbot/openimbot) -  (1 month ago)
-- [openimsdk/Open-IM-PC-Web-Demo](https://github.com/openimsdk/Open-IM-PC-Web-Demo) - Instant Messaging web (1 month ago)
+- [openimsdk/open-im-pc-web-demo](https://github.com/openimsdk/open-im-pc-web-demo) - Instant Messaging web (1 month ago)
 - [openkf/openkf](https://github.com/openkf/openkf) - openkf (1 month ago)
 - [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 month ago)
 - [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/ (1 month ago)
@@ -60,4 +60,3 @@
 - [Update README.md](https://github.com/kubecub/CloudBuildAI/pull/16) on [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) (3 months ago)
 - [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (3 months ago)
 - [Update .gitignore](https://github.com/openimsdk/community/pull/21) on [openimsdk/community](https://github.com/openimsdk/community) (3 months ago)
- 🚀 Shanghai time when the README file was last updated：2023-09-07 16:15:49
