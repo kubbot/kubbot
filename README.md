@@ -16,7 +16,7 @@
 - [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (3 days ago)
 - [openimsdk/OpenIM-Docs](https://github.com/openimsdk/OpenIM-Docs) - OpenIM system documentation (3 days ago)
 - [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (3 days ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 云原生、kubernetes、docker以及开源社区的记录，学习 笔记 (3 days ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (3 days ago)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (3 days ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (5 days ago)
 - [openimsdk/openim-sdk-cpp](https://github.com/openimsdk/openim-sdk-cpp) -  (5 days ago)
@@ -62,4 +62,3 @@
 - [Update README.md](https://github.com/kubecub/CloudBuildAI/pull/16) on [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) (3 months ago)
 - [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (4 months ago)
 - [Update .gitignore](https://github.com/openimsdk/community/pull/21) on [openimsdk/community](https://github.com/openimsdk/community) (4 months ago)
- 🚀 Shanghai time when the README file was last updated：2023-09-12 23:12:53
