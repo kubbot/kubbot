@@ -53,7 +53,7 @@
 - [Update environment.sh](https://github.com/openimsdk/open-im-server/pull/1069) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [fix update environment.sh](https://github.com/openimsdk/open-im-server/pull/1068) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [Update and rename golangci-link.yml to golangci-lint.yml](https://github.com/openimsdk/open-im-server/pull/637) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
-- [Update cla.yml](https://github.com/openimsdk/open-im-server/pull/634) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
+- [Update cla.yml](https://github.com/openimsdk/open-im-server/pull/634) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
 - [Update README.md](https://github.com/openim-sigs/cla/pull/6) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (2 months ago)
 - [Update context.go](https://github.com/kubecub/log/pull/14) on [kubecub/log](https://github.com/kubecub/log) (3 months ago)
 - [Update context.go](https://github.com/kubecub/log/pull/8) on [kubecub/log](https://github.com/kubecub/log) (3 months ago)
@@ -62,4 +62,3 @@
 - [Update README.md](https://github.com/kubecub/CloudBuildAI/pull/16) on [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) (4 months ago)
 - [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (4 months ago)
 - [Update .gitignore](https://github.com/openimsdk/community/pull/21) on [openimsdk/community](https://github.com/openimsdk/community) (4 months ago)
- 🚀 Shanghai time when the README file was last updated：2023-09-20 07:35:31
