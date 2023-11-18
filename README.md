@@ -50,6 +50,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update env_template.yaml](https://github.com/openimsdk/open-im-server/pull/1433) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Update environment.sh](https://github.com/openimsdk/open-im-server/pull/1069) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
 - [fix update environment.sh](https://github.com/openimsdk/open-im-server/pull/1068) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
 - [Update and rename golangci-link.yml to golangci-lint.yml](https://github.com/openimsdk/open-im-server/pull/637) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 months ago)
@@ -62,4 +63,3 @@
 - [Update README.md](https://github.com/kubecub/CloudBuildAI/pull/16) on [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) (6 months ago)
 - [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (6 months ago)
 - [Update .gitignore](https://github.com/openimsdk/community/pull/21) on [openimsdk/community](https://github.com/openimsdk/community) (6 months ago)
- 🚀 Shanghai time when the README file was last updated：2023-11-18 12:36:22
