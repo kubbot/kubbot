@@ -35,7 +35,7 @@
 - [openimbot/openimbot](https://github.com/openimbot/openimbot) -  (4 months ago)
 - [openimsdk/openim-electron-demo](https://github.com/openimsdk/openim-electron-demo) - Instant Messaging web desktop (4 months ago)
 - [openkf/openkf](https://github.com/openkf/openkf) - openkf (4 months ago)
-- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (4 months ago)
+- [openimsdk/openkf](https://github.com/openimsdk/openkf) - Supports chatgpt and llm large language models. OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (4 months ago)
 - [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/  https://openkf.github.io/website/ (4 months ago)
 - [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) - Instant Messaging (4 months ago)
 - [openimsdk/openim-miniprogram-demo](https://github.com/openimsdk/openim-miniprogram-demo) -  (5 months ago)
@@ -63,4 +63,3 @@
 - [Update README.md](https://github.com/kubecub/CloudBuildAI/pull/16) on [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) (6 months ago)
 - [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (6 months ago)
 - [Update .gitignore](https://github.com/openimsdk/community/pull/21) on [openimsdk/community](https://github.com/openimsdk/community) (6 months ago)
- 🚀 Shanghai time when the README file was last updated：2023-11-21 12:15:55
