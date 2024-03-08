@@ -50,6 +50,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/2025) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/2012) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/2004) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [Update readme and golangci lint](https://github.com/openimsdk/open-im-server/pull/1999) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
@@ -79,5 +80,3 @@
 - [Update blog-post-workflow.yml](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/25) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (9 months ago)
 - [Update README.md](https://github.com/kubecub/CloudBuildAI/pull/16) on [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) (9 months ago)
 - [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (10 months ago)
-- [Update .gitignore](https://github.com/openimsdk/community/pull/21) on [openimsdk/community](https://github.com/openimsdk/community) (10 months ago)
- 🚀 Shanghai time when the README file was last updated：2024-03-08 09:46:08
