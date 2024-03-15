@@ -16,8 +16,8 @@
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (today)
 - [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
 - [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (3 days ago)
 - [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (1 week ago)
@@ -80,4 +80,3 @@
 - [Update README.md](https://github.com/openim-sigs/cla/pull/6) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (7 months ago)
 - [Update context.go](https://github.com/kubecub/log/pull/14) on [kubecub/log](https://github.com/kubecub/log) (9 months ago)
 - [Update context.go](https://github.com/kubecub/log/pull/8) on [kubecub/log](https://github.com/kubecub/log) (9 months ago)
- 🚀 Shanghai time when the README file was last updated：2024-03-15 16:15:55
