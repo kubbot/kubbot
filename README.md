@@ -17,10 +17,10 @@
 - [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (today)
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
 - [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (today)
-- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (1 day ago)
-- [openimsdk/openim-docs](https://github.com/openimsdk/openim-docs) - OpenIM system documentation (1 day ago)
+- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (today)
+- [openimsdk/openim-docs](https://github.com/openimsdk/openim-docs) - OpenIM system documentation (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (5 days ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 week ago)
 - [openimsdk/openim-sdk-cpp](https://github.com/openimsdk/openim-sdk-cpp) - IM SDK C/C&#43;&#43; (1 month ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 month ago)
@@ -80,4 +80,3 @@
 - [Update and rename golangci-link.yml to golangci-lint.yml](https://github.com/openimsdk/open-im-server/pull/637) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (8 months ago)
 - [Update cla.yml](https://github.com/openimsdk/open-im-server/pull/634) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (8 months ago)
 - [Update README.md](https://github.com/openim-sigs/cla/pull/6) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (8 months ago)
- 🚀 Shanghai time when the README file was last updated：2024-03-19 14:16:11
