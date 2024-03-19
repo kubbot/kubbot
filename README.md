@@ -80,3 +80,4 @@
 - [Update and rename golangci-link.yml to golangci-lint.yml](https://github.com/openimsdk/open-im-server/pull/637) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (8 months ago)
 - [Update cla.yml](https://github.com/openimsdk/open-im-server/pull/634) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (8 months ago)
 - [Update README.md](https://github.com/openim-sigs/cla/pull/6) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (8 months ago)
+ 🚀 Shanghai time when the README file was last updated：2024-03-19 14:35:09
