@@ -80,3 +80,4 @@
 - [Update environment.sh](https://github.com/openimsdk/open-im-server/pull/1069) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 months ago)
 - [fix update environment.sh](https://github.com/openimsdk/open-im-server/pull/1068) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 months ago)
 - [Update and rename golangci-link.yml to golangci-lint.yml](https://github.com/openimsdk/open-im-server/pull/637) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (8 months ago)
+ 🚀 Shanghai time when the README file was last updated：2024-03-22 22:12:26
