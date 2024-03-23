@@ -50,6 +50,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/chat/pull/479) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/2130) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [Create code-language-detector.yml](https://github.com/openimsdk/protocol/pull/68) on [openimsdk/protocol](https://github.com/openimsdk/protocol) (4 days ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/chat/pull/472) on [openimsdk/chat](https://github.com/openimsdk/chat) (4 days ago)
@@ -79,5 +80,3 @@
 - [Update env_template.yaml](https://github.com/openimsdk/open-im-server/pull/1433) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 months ago)
 - [Update environment.sh](https://github.com/openimsdk/open-im-server/pull/1069) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 months ago)
 - [fix update environment.sh](https://github.com/openimsdk/open-im-server/pull/1068) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 months ago)
-- [Update and rename golangci-link.yml to golangci-lint.yml](https://github.com/openimsdk/open-im-server/pull/637) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (8 months ago)
- 🚀 Shanghai time when the README file was last updated：2024-03-23 09:43:09
