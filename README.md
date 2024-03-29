@@ -80,3 +80,4 @@
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/1828) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
 - [Bump League Patch auto PR: $(date &#43;&#39;%Y%m%d&#39;)](https://github.com/openimsdk/open-im-server/pull/1825) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
 - [Update ASF APIs](https://github.com/kubecub/docs/pull/22) on [kubecub/docs](https://github.com/kubecub/docs) (2 months ago)
+ 🚀 Shanghai time when the README file was last updated：2024-03-29 16:14:34
