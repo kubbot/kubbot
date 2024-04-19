@@ -17,10 +17,10 @@
 - [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
 - [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (today)
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
+- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (today)
+- [openimsdk/openim-docs](https://github.com/openimsdk/openim-docs) - OpenIM system documentation (today)
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
 - [aicworld/community](https://github.com/aicworld/community) -  (1 week ago)
-- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (2 weeks ago)
-- [openimsdk/openim-docs](https://github.com/openimsdk/openim-docs) - OpenIM system documentation (2 weeks ago)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (4 weeks ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 month ago)
 - [openimsdk/protocol](https://github.com/openimsdk/protocol) -  (1 month ago)
@@ -80,4 +80,3 @@
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/1921) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/1892) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/1884) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
- 🚀 Shanghai time when the README file was last updated：2024-04-19 22:11:53
