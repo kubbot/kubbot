@@ -80,3 +80,4 @@
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/1958) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/1937) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/1921) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
+ 🚀 Shanghai time when the README file was last updated：2024-05-04 19:10:03
