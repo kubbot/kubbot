@@ -50,6 +50,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/71) on [cubxxw/blog](https://github.com/cubxxw/blog) (today)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/67) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/66) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/65) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
@@ -79,5 +80,3 @@
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/2012) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/2004) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 months ago)
 - [Update readme and golangci lint](https://github.com/openimsdk/open-im-server/pull/1999) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 months ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/1998) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 months ago)
- 🚀 Shanghai time when the README file was last updated：2024-07-24 10:21:09
