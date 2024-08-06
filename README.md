@@ -80,4 +80,3 @@
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/2012) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/2004) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 months ago)
 - [Update readme and golangci lint](https://github.com/openimsdk/open-im-server/pull/1999) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 months ago)
- 🚀 Shanghai time when the README file was last updated：2024-08-06 10:22:25
