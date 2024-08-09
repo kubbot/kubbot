@@ -17,7 +17,7 @@
 - [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (today)
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
 - [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [telepace/.github](https://github.com/telepace/.github) -  (1 month ago)
 - [openimsdk/openim-docs](https://github.com/openimsdk/openim-docs) - OpenIM system documentation (3 months ago)
 - [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (3 months ago)
@@ -80,4 +80,3 @@
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/2012) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/openimsdk/open-im-server/pull/2004) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 months ago)
 - [Update readme and golangci lint](https://github.com/openimsdk/open-im-server/pull/1999) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 months ago)
- 🚀 Shanghai time when the README file was last updated：2024-08-09 16:18:55
