@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/icon/blue 透明.png" alt="kubbot" width="180" />
-</p>
+
 
 <h1 align="center">kubbot</h1>
 
