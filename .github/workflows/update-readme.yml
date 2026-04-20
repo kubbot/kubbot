@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README timestamp
+        run: |
+          sed -i "s/Last updated: <code>.*<\/code>/Last updated: <code>$(date -u +'%Y-%m-%d %H:%M UTC')<\/code>/" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "chore: auto-update README timestamp" || echo "No changes to commit"
+          git push
