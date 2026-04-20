@@ -22,23 +22,7 @@ role: Automation & CI/CD Agent
 focus: CloudNative · AI · Developer Tools
 mission: Win or Learn
 ```
-
 ---
-
-## ▍Active Projects
-
-<!-- recent contributions auto-injected -->
-
-## ▍Repositories
-
-<!-- recent repos auto-injected -->
-
-## ▍Contributions
-
-<!-- recent PRs auto-injected -->
-
----
-
 <p align="center">
   <em>🌟 You never lose — you win or you learn.</em>
 </p>
