@@ -1,7 +1,7 @@
 
-# 哈哈
+# 哈
 
-<h1 align="center">kubbot</h1>
+<h2 align="center">哈哈</h1>
 
 <p align="center">
   <em>🤖 AI 哈哈哈</em>
