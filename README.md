@@ -1,9 +1,10 @@
 
+# 哈哈
 
 <h1 align="center">kubbot</h1>
 
 <p align="center">
-  <em>🤖 Automated Builder · Cloud Native Guardian · AI Enabler</em>
+  <em>🤖 AI 哈哈哈</em>
 </p>
 
 <p align="center">
