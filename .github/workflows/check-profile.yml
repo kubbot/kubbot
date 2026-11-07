@@ -1,0 +1,25 @@
+name: Check profile
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  profile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Check generated diagrams
+        run: python3 scripts/render-workflow.py --check
+      - name: Check whitespace
+        run: git diff --check HEAD^ HEAD
