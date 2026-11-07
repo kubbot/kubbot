@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="960" viewBox="0 0 640 960" role="img" aria-labelledby="title description">
+<title id="title">Context that compounds</title>
+<desc id="description">Sources, skills and reviewed memory supply relevant context to an agent. MCP connects tools. Verified work feeds reviewed lessons back into memory.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#8295af" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect x="1" y="1" width="638" height="958" rx="24" fill="#f6f8fc"/>
+<text x="56" y="86" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="46" font-weight="600" fill="#182b46" text-anchor="start">Context compounds.</text>
+<text x="56" y="139" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#50637e" text-anchor="start">Retrieve what matters. Review what stays.</text>
+<rect x="56" y="200" width="240" height="96" rx="16" fill="#ffffff"/>
+<text x="76" y="238" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="29" font-weight="600" fill="#182b46" text-anchor="start">Sources</text>
+<text x="76" y="273" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Docs + code</text>
+<path d="M 296 248 H 344" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="56" y="326" width="240" height="96" rx="16" fill="#ffffff"/>
+<text x="76" y="364" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="29" font-weight="600" fill="#182b46" text-anchor="start">Skills</text>
+<text x="76" y="399" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">How to work</text>
+<path d="M 296 374 H 344" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="56" y="452" width="240" height="96" rx="16" fill="#ffffff"/>
+<text x="76" y="490" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="29" font-weight="600" fill="#182b46" text-anchor="start">Memory</text>
+<text x="76" y="525" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Reviewed lessons</text>
+<path d="M 296 500 H 344" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 344 248 V 500 M 344 409 H 377" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="382" y="200" width="202" height="96" rx="16" fill="#e8eff9"/>
+<text x="402" y="238" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="#176e67" text-anchor="start">MCP tools</text>
+<text x="402" y="273" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#50637e" text-anchor="start">Read + act</text>
+<path d="M 483 296 V 331" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="382" y="336" width="202" height="146" rx="16" fill="#e8eff9"/>
+<text x="402" y="380" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" fill="#182b46" text-anchor="start">Agent</text>
+<text x="402" y="422" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#50637e" text-anchor="start">Execute</text>
+<text x="402" y="457" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#50637e" text-anchor="start">with context</text>
+<path d="M 483 482 V 610 H 320 V 665" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="56" y="670" width="528" height="110" rx="16" fill="#ffffff"/>
+<rect x="76" y="694" width="4" height="62" rx="2" fill="#88501e"/>
+<text x="96" y="714" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" fill="#182b46" text-anchor="start">Verified work</text>
+<text x="96" y="749" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Code + review + evidence</text>
+<path d="M 56 725 H 28 V 500 H 51" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)" stroke-dasharray="6 7"/>
+<text x="56" y="851" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="28" font-weight="400" fill="#50637e" text-anchor="start">Review the outcome before</text>
+<text x="56" y="893" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="28" font-weight="400" fill="#50637e" text-anchor="start">saving a lesson for the next task.</text>
+</svg>

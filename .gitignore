@@ -4,6 +4,7 @@
 *.jpeg
 *.gif
 *.svg
+!assets/workflow/*.svg
 
 # Metrics
 github-metrics.svg

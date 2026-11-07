@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="title description">
+<title id="title">One task, end to end</title>
+<desc id="description">Scope, build, verify, deliver. Failed checks return to build. Release and real-world acceptance are separate checks.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#8295af" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect x="1" y="1" width="1198" height="688" rx="24" fill="#f6f8fc"/>
+<text x="56" y="86" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="44" font-weight="600" fill="#182b46" text-anchor="start">One task, end to end.</text>
+<text x="56" y="138" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#50637e" text-anchor="start">Every handoff carries a concrete artifact.</text>
+<rect x="56" y="210" width="236" height="190" rx="16" fill="#ffffff"/>
+<text x="80" y="248" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="#176e67" text-anchor="start">01</text>
+<text x="80" y="298" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" fill="#182b46" text-anchor="start">Scope</text>
+<text x="80" y="340" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Goal + constraints</text>
+<text x="80" y="374" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Acceptance criteria</text>
+<path d="M 292 303 H 335" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="340" y="210" width="236" height="190" rx="16" fill="#ffffff"/>
+<text x="364" y="248" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="#315ebb" text-anchor="start">02</text>
+<text x="364" y="298" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" fill="#182b46" text-anchor="start">Build</text>
+<text x="364" y="340" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Isolated branch</text>
+<text x="364" y="374" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">A concrete change</text>
+<path d="M 576 303 H 619" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="624" y="210" width="236" height="190" rx="16" fill="#ffffff"/>
+<text x="648" y="248" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="#315ebb" text-anchor="start">03</text>
+<text x="648" y="298" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" fill="#182b46" text-anchor="start">Verify</text>
+<text x="648" y="340" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Tests + review</text>
+<text x="648" y="374" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Evidence to inspect</text>
+<path d="M 860 303 H 903" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="908" y="210" width="236" height="190" rx="16" fill="#ffffff"/>
+<text x="932" y="248" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="#88501e" text-anchor="start">04</text>
+<text x="932" y="298" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" fill="#182b46" text-anchor="start">Deliver</text>
+<text x="932" y="340" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Pull request</text>
+<text x="932" y="374" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Result + evidence</text>
+<path d="M 742 400 V 458 H 458 V 406" fill="none" stroke="#8295af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)" stroke-dasharray="6 7"/>
+<text x="600" y="501" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#50637e" text-anchor="middle">Failed check? Return to build.</text>
+<rect x="56" y="548" width="1088" height="68" rx="12" fill="#e8eff9"/>
+<circle cx="84" cy="583" r="4" fill="#176e67"/>
+<text x="104" y="590" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#182b46" text-anchor="start">A passing check applies to the revision and surface it tested.</text>
+<text x="56" y="654" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#50637e" text-anchor="start">Release and real-world acceptance stay explicit.</text>
+</svg>
